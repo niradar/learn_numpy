@@ -2,7 +2,7 @@
 
 This repository contains my learning notes and practice while learning numpy.
 My numpy cheat sheet is [here](https://docs.google.com/document/d/1UMzfdqypX0Bj7t29av2ldQjeRSF_xkyhAPXGeF6y9KA/edit?usp=sharing) - based on what I've learnt.
-
+Additional Hebrew notes are [here](https://docs.google.com/document/d/1opQkwLQZ75jhcqVoWb37I-gxQq3jz23GiUvt5bJrBUM/edit?usp=sharing).
 ## Installation
 
 1. Create a virtual environment:
